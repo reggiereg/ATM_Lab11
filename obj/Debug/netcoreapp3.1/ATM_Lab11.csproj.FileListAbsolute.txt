@@ -1,0 +1,11 @@
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\obj\Debug\netcoreapp3.1\ATM_Lab11.csprojAssemblyReference.cache
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\obj\Debug\netcoreapp3.1\ATM_Lab11.AssemblyInfoInputs.cache
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\obj\Debug\netcoreapp3.1\ATM_Lab11.AssemblyInfo.cs
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\bin\Debug\netcoreapp3.1\ATM_Lab11.exe
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\bin\Debug\netcoreapp3.1\ATM_Lab11.deps.json
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\bin\Debug\netcoreapp3.1\ATM_Lab11.runtimeconfig.json
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\bin\Debug\netcoreapp3.1\ATM_Lab11.runtimeconfig.dev.json
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\bin\Debug\netcoreapp3.1\ATM_Lab11.dll
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\bin\Debug\netcoreapp3.1\ATM_Lab11.pdb
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\obj\Debug\netcoreapp3.1\ATM_Lab11.dll
+C:\Users\young\Desktop\bootcampAssigns\Labs\ATM_Lab11\obj\Debug\netcoreapp3.1\ATM_Lab11.pdb
